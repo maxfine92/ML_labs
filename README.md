@@ -35,7 +35,8 @@ Here we will use mean shift method:
 
 6. In Credit scoring task we will learn how the mathematical statistics work (hypothesis testing particularly).
 E.g., the dependency of credit default on the age of the clients:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/67582707/150073072-6ae5c191-6619-44b1-9134-ee7fcd8e2348.png)
+
 
 
 
