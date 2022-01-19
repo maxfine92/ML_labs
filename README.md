@@ -30,11 +30,12 @@ and learn the difference between Lasso and Ridge regression:
 5. Banners clusterization.
 Let's imagine that the international cruise agency "Carnival Cruise Line" decided to advertise itself with the help of banners and turned to you for this. To test whether such banners are of great use, only 20 of them will be placed around the world. You need to choose 20  locations for placement so that the benefit is great and the agency continues to cooperate with you. 
 Here we will use mean shift method:
-![](mean_shift_2.gif)
+![](https://github.com/maxfine92/ML_labs/tree/main/5.%20Кластеризация%20баннеров/mean_shift_2.gif)
 
 6. In Credit scoring task we will learn how the mathematical statistics work (hypothesis testing particularly).
 E.g., the dependency of credit default on the age of the clients:
 ![Uploading image.png…]()
+
 
 
 
